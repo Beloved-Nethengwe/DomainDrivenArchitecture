@@ -1,0 +1,15 @@
+C:\Users\belov\Documents\Workshops\Fundamentals of programming\Fundamentals of Programming\Adapters\bin\Debug\net8.0\Adapters.deps.json
+C:\Users\belov\Documents\Workshops\Fundamentals of programming\Fundamentals of Programming\Adapters\bin\Debug\net8.0\Adapters.dll
+C:\Users\belov\Documents\Workshops\Fundamentals of programming\Fundamentals of Programming\Adapters\bin\Debug\net8.0\Adapters.pdb
+C:\Users\belov\Documents\Workshops\Fundamentals of programming\Fundamentals of Programming\Adapters\bin\Debug\net8.0\Services.dll
+C:\Users\belov\Documents\Workshops\Fundamentals of programming\Fundamentals of Programming\Adapters\bin\Debug\net8.0\Services.pdb
+C:\Users\belov\Documents\Workshops\Fundamentals of programming\Fundamentals of Programming\Adapters\obj\Debug\net8.0\Adapters.csproj.AssemblyReference.cache
+C:\Users\belov\Documents\Workshops\Fundamentals of programming\Fundamentals of Programming\Adapters\obj\Debug\net8.0\Adapters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belov\Documents\Workshops\Fundamentals of programming\Fundamentals of Programming\Adapters\obj\Debug\net8.0\Adapters.AssemblyInfoInputs.cache
+C:\Users\belov\Documents\Workshops\Fundamentals of programming\Fundamentals of Programming\Adapters\obj\Debug\net8.0\Adapters.AssemblyInfo.cs
+C:\Users\belov\Documents\Workshops\Fundamentals of programming\Fundamentals of Programming\Adapters\obj\Debug\net8.0\Adapters.csproj.CoreCompileInputs.cache
+C:\Users\belov\Documents\Workshops\Fundamentals of programming\Fundamentals of Programming\Adapters\obj\Debug\net8.0\Adapters.csproj.CopyComplete
+C:\Users\belov\Documents\Workshops\Fundamentals of programming\Fundamentals of Programming\Adapters\obj\Debug\net8.0\Adapters.dll
+C:\Users\belov\Documents\Workshops\Fundamentals of programming\Fundamentals of Programming\Adapters\obj\Debug\net8.0\refint\Adapters.dll
+C:\Users\belov\Documents\Workshops\Fundamentals of programming\Fundamentals of Programming\Adapters\obj\Debug\net8.0\Adapters.pdb
+C:\Users\belov\Documents\Workshops\Fundamentals of programming\Fundamentals of Programming\Adapters\obj\Debug\net8.0\ref\Adapters.dll
